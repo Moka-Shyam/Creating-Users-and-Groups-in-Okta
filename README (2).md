@@ -39,8 +39,7 @@ Contributions are welcome! If you have any suggestions for improvements or find 
 
 ### Contact
 
-For questions or further information, please contact lukesundar@gmail.com
-
+For questions or further information, please contact  shyammoka239@gmail.com
 ---
 
 By utilizing Okta's user and group management capabilities, organizations can efficiently manage identities, control access to resources, and maintain security compliance. This repository provides resources and guidance to facilitate the creation and management of users and groups in Okta, empowering organizations to optimize their IAM processes.
